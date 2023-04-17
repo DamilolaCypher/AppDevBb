@@ -1,6 +1,6 @@
-#include 
+#include <stdio.h> // this is a line of comment
 
 int main(void) {
-	print("hello git\n")
-		
+	printf("hello git\n");
+	return 0;
 }
